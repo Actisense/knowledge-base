@@ -51,3 +51,11 @@ A: Absolutely! See [CONTRIBUTING.md](./CONTRIBUTING.md) for full details on how 
 **Q: I found incorrect or outdated information — what should I do?**
 
 A: Please open an issue or submit a pull request with the correction. We appreciate every improvement!
+
+---
+
+## Hardware
+
+**Q: Which SD cards are supported by the WGX-1, W2K-1, and W2K-2?**
+
+A: See [SD Card Guidance for WGX-1, W2K-1, and W2K-2](./faq/faq-1.md) for recommended cards, formatting requirements, and known limitations.
