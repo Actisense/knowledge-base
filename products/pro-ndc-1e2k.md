@@ -32,7 +32,7 @@ commercial vessels and professional installations that must meet type-approval r
 
 - **NMEA 0183:** Multiple isolated input ports and combined output ports
 - **NMEA 2000:** Micro-C drop connection to the backbone
-- **Configuration:** Via Actisense Toolkit or the built-in web interface (over Ethernet)
+- **Configuration:** Via the built-in web interface (over Ethernet)
 - **Power:** Powered independently from its own dedicated supply (see datasheet for voltage range).
 - **Ethernet:** RJ45 port — routes data to a local network and hosts the web-configuration interface
 
@@ -49,17 +49,12 @@ Data is served through **2 Data Servers**, which work like the Data Servers on t
 
 1. Mount the unit and wire each NMEA 0183 talker to a numbered input (mind polarity).
 2. Connect combined outputs to listeners and the unit to the NMEA 2000 backbone.
-3. Use the Actisense toolkit to set baud rates, routing, filtering, and priorities.
+3. Use the web interface to set baud rates, routing, filtering, and priorities.
 4. Verify merged data on both the 0183 outputs and the NMEA 2000 network.
-
-## Software & Tools
-
-- **Actisense Toolkit** — port configuration, routing, filtering, and firmware updates
-- **Web interface** — configuration and status over the RJ45 Ethernet connection
 
 ## Firmware & Updates
 
-Firmware and configuration are managed via the Actisense toolkit. Always run the latest —
+Firmware and configuration are handled through the built-in **web interface** over Ethernet (the same approach as the W2K-1, W2K-2, and WGX-1). Always run the latest —
 see [actisense.com/downloads](https://actisense.com/downloads/?type=&products=.pro-54400).
 
 ## Common Use Cases

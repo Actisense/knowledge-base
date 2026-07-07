@@ -31,7 +31,7 @@ aimed at professional and commercial vessels.
 ## Connections & Interfaces
 
 - **NMEA 0183:** One input port, multiple buffered/isolated output ports
-- **Configuration:** Via Actisense Toolkit or the built-in web interface (over Ethernet)
+- **Configuration:** Via the built-in web interface (over Ethernet)
 - **Power:** Powered independently from its own dedicated supply (see datasheet for voltage range).
 - **Ethernet:** RJ45 port — routes data to a local network and hosts the web-configuration interface
 
@@ -50,14 +50,9 @@ Data is served through a **single Data Server**, which works like the Data Serve
 2. Connect each listener to a separate output port.
 3. Confirm every listener receives the data cleanly.
 
-## Software & Tools
-
-- **Actisense Toolkit** — configuration and firmware updates (where applicable)
-- **Web interface** — configuration and status over the RJ45 Ethernet connection
-
 ## Firmware & Updates
 
-Managed via the Actisense toolkit. Always run the latest —
+Firmware and configuration are handled through the built-in **web interface** over Ethernet (the same approach as the W2K-1, W2K-2, and WGX-1). Always run the latest —
 see [actisense.com/downloads](https://actisense.com/downloads/?type=&products=.pro-8083).
 
 ## Common Use Cases
