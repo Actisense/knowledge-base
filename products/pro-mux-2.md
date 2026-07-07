@@ -30,7 +30,7 @@ and is designed for professional and commercial installations.
 ## Connections & Interfaces
 
 - **NMEA 0183:** Multiple isolated input ports and combined output ports
-- **Configuration:** Via Actisense Toolkit or the built-in web interface (over Ethernet)
+- **Configuration:** Via the built-in web interface (over Ethernet)
 - **Power:** Powered independently from its own dedicated supply (see datasheet for voltage range).
 - **Ethernet:** RJ45 port — routes data to a local network and hosts the web-configuration interface
 
@@ -47,17 +47,12 @@ Data is served through **4 Data Servers**, which work like the Data Servers on t
 
 1. Mount the unit and wire each NMEA 0183 talker to a numbered input.
 2. Connect combined output(s) to your listener(s).
-3. Configure baud rates, routing, and filtering with the Actisense toolkit.
+3. Configure baud rates, routing, and filtering via the web interface.
 4. Verify all required sentences appear on the output.
-
-## Software & Tools
-
-- **Actisense Toolkit** — configuration, filtering, and firmware updates
-- **Web interface** — configuration and status over the RJ45 Ethernet connection
 
 ## Firmware & Updates
 
-Managed via the Actisense toolkit. Always run the latest —
+Firmware and configuration are handled through the built-in **web interface** over Ethernet (the same approach as the W2K-1, W2K-2, and WGX-1). Always run the latest —
 see [actisense.com/downloads](https://actisense.com/downloads/?type=&products=.pro-25192).
 
 ## Common Use Cases

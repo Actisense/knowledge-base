@@ -40,14 +40,9 @@ type-approved equipment.
 2. Connect each listener to a separate output port.
 3. Confirm every listener receives the data cleanly.
 
-## Software & Tools
+## Configuration & Firmware
 
-- **Actisense Toolkit** — configuration and firmware updates (where applicable)
-
-## Firmware & Updates
-
-Managed via the Actisense toolkit. Always run the latest —
-see [actisense.com/downloads](https://actisense.com/downloads/?type=&products=.pro-8080).
+The PRO-NBF-1 has no user-adjustable settings and no updatable firmware — it operates as a fixed-function buffer, so there is nothing to configure or update.
 
 ## Common Use Cases
 
