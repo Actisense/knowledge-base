@@ -12,7 +12,7 @@ Answers to common questions about Actisense products, the SDK, and integrating A
 
 **Q: Where can I find official documentation for Actisense products?**
 
-A: Full product manuals, technical guides, and release notes are available at [actisense.com/support](https://www.actisense.com/support/).
+A: Full product manuals, technical guides, and release notes are available at [actisense.com/support](https://actisense.com/support/).
 
 ---
 
@@ -36,7 +36,7 @@ A: Please open an issue in the relevant GitHub repository. For SDK issues, use t
 
 **Q: How do I contact Actisense engineering support?**
 
-A: Reach out via [actisense.com/contact](https://www.actisense.com/contact/).
+A: Reach out via [actisense.com/contact](https://actisense.com/contact/).
 
 ---
 

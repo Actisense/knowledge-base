@@ -25,8 +25,8 @@ Welcome! This repository is a community-friendly resource hub for anyone working
 | Resource | Description |
 |---|---|
 | [SDK Repository](https://github.com/Actisense/SDK) | Libraries and examples for connecting to Actisense devices |
-| [Actisense Support](https://www.actisense.com/support/) | Contact our engineering team for help |
-| [actisense.com](https://www.actisense.com) | Explore our full product range |
+| [Actisense Support](https://actisense.com/support/) | Contact our engineering team for help |
+| [actisense.com](https://actisense.com) | Explore our full product range |
 
 ---
 
@@ -54,6 +54,6 @@ Please open a **Pull Request** or raise an **Issue** to start a conversation. Se
 
 ## 🛟 Support & Contact
 
-- 📖 **Documentation:** [actisense.com/support](https://www.actisense.com/support/)
+- 📖 **Documentation:** [actisense.com/downloads](https://actisense.com/downloads/)
 - 🐛 **Report Issues:** Open an issue in this repository
-- 📧 **Contact Us:** [actisense.com/contact](https://www.actisense.com/contact/)
+- 📧 **Contact Us:** [actisense.com/contact](https://actisense.com/contact/)

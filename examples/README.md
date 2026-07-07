@@ -4,18 +4,17 @@ This section contains interesting and creative ways to use Actisense devices —
 
 ---
 
-## Available Examples
-
-> 📝 This section is a work in progress. Contributions are welcome — see [CONTRIBUTING.md](../CONTRIBUTING.md) to get started.
+> 📝 Got a creative use-case? Copy [`_TEMPLATE.md`](./_TEMPLATE.md) to share it. See [CONTRIBUTING.md](../CONTRIBUTING.md).
 
 | Example | Description |
 |---|---|
-| *(coming soon)* | |
+| [Logging a voyage & analysing it later](./logging-and-analysis.md) | Record to SD or PC, then replay/analyse |
+| [A Raspberry Pi boat server with Signal K](./signalk-on-raspberry-pi.md) | Onboard dashboard, logger, and bridge |
 
 ---
 
 ## 🛟 Support & Contact
 
-- 📖 **Documentation:** [actisense.com/support](https://www.actisense.com/support/)
+- 📖 **Documentation:** [actisense.com/downloads](https://actisense.com/downloads/)
 - 🐛 **Report Issues:** Open an issue in this repository
-- 📧 **Contact Us:** [actisense.com/contact](https://www.actisense.com/contact/)
+- 📧 **Contact Us:** [actisense.com/contact](https://actisense.com/contact/)

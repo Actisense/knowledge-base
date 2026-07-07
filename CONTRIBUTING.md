@@ -81,6 +81,6 @@ For larger contributions (e.g. a new section), consider opening an **Issue** fir
 
 ## 🛟 Need Help?
 
-- 📖 **Documentation:** [actisense.com/support](https://www.actisense.com/support/)
+- 📖 **Documentation:** [actisense.com/downloads](https://actisense.com/downloads/)
 - 🐛 **Open an Issue:** Use GitHub Issues in this repository
-- 📧 **Contact Us:** [actisense.com/contact](https://www.actisense.com/contact/)
+- 📧 **Contact Us:** [actisense.com/contact](https://actisense.com/contact/)
